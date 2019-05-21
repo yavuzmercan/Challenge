@@ -1,0 +1,86 @@
+{
+  "items":[
+    {
+      "jobId": 1,
+      "positionName":"Developer",
+      "companyName": "Nova Fashion Group",
+      "cityName":"istanbul",
+    },
+    {
+      "jobId": 2,
+      "positionName":"Php Developer",
+      "companyName": "N11",
+      "cityName":"istanbul",
+    },
+    {
+      "jobId": 3,
+      "positionName":".Net Developer",
+      "companyName": "Apsiyon Bilişim Sis. San. ve Tic. A.Ş",
+      "cityName":"ankara",
+    },
+    {
+      "jobId": 4,
+      "positionName":"Backend Developer",
+      "companyName": "Matriks Bilgi Dağıtım Hizmetleri A.Ş.",
+      "cityName":"ankara",
+    },
+    {
+      "jobId": 5,
+      "positionName":"Android Developer",
+      "companyName": "ICterra Bilgi ve İletişim Teknolojileri",
+      "cityName":"izmir",
+    },
+    {
+      "jobId": 6,
+      "positionName":"Frontend Developer",
+      "companyName": "edelkrone",
+      "cityName":"ankara",
+    },
+    {
+      "jobId": 7,
+      "positionName":"Java Developer",
+      "companyName": "OBSS Bilişim Bilgisayar Hizmetleri Danışmanlık San",
+      "cityName":"bursa",
+    }
+    ,{
+      "jobId": 8,
+      "positionName":"Software Developer",
+      "companyName": "Softtech Yazılım",
+      "cityName":"istanbul",
+    },
+    {
+      "jobId": 9,
+      "positionName":"SAP Developer",
+      "companyName": "Sektöründe Lider Firma",
+      "cityName":"manisa",
+    },
+    {
+      "jobId": 10,
+      "positionName":"Game Developer",
+      "companyName": "Simsoft Bilgi Teknolojileri",
+      "cityName":"ankara",
+    },{
+      "jobId": 11,
+      "positionName":"Game Developer",
+      "companyName": "Ante Grup",
+      "cityName":"antalya",
+    }
+    ,{
+      "jobId": 12,
+      "positionName":"Frontend Developer",
+      "companyName": "Kronom",
+      "cityName":"istanbul",
+    },{
+      "jobId": 13,
+      "positionName":"Php Developer",
+      "companyName": "Hyundai Assan Otomotiv San. Tic. A.Ş.",
+      "cityName":"kocaeli",
+    }
+    ,{
+      "jobId": 14,
+      "positionName":"Backend Developer",
+      "companyName": "Mepsan Petrol Cihazları San. ve Tic. A.Ş.",
+      "cityName":"konya",
+    }
+  ]
+}
